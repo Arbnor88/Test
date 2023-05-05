@@ -2,8 +2,6 @@ Farbplatte
 
 Rot
 Grün
-Hellblau
-Dunkelblau
 Gelb
 Magenta
 
