@@ -3,6 +3,8 @@ Farbplatte
 Rot
 Grün
 Gelb
+Hellblau
+Dunkelblau
 Magenta
 
 Sind alles tolle Farben
