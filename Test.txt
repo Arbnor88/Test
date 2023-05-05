@@ -1,7 +1,8 @@
 Farbplatte
 
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 Gelb
 Magenta
 
